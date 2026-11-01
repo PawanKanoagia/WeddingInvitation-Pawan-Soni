@@ -1,2 +1,2 @@
 # WeddingInvitation-Pawan-Soni
-This is invitation from Pawan and Soni
+run wedding.html file in browser
